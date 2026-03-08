@@ -3,5 +3,3 @@ uvicorn
 passlib[bcrypt]
 python-jose[cryptography]
 python-multipart
-sqlite3
-
